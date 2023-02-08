@@ -12,4 +12,5 @@ This is a school project where the main focus was to do a Descriptive and Explor
 So, I am required to use my knowledge in the DEA( Descriptive and Exploratory Analysis) and implement a PCA unsupervised machine learning model.
 
 // Technologies
+
 R, Rstudio
